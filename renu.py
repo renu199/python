@@ -1,0 +1,10 @@
+name=input("renuka")
+print(name)
+print(type(name))
+clg_name=("i am studying in")
+print(clg_name)
+cgpa=input( "i am havining")
+print("cgpa plese?")
+print("my name is,",name,"i am studying in",clgname,"having cgpa of",cgpa)
+#print(my name()studing(),my cgpa is().format(name clg_name,cgpa))
+
